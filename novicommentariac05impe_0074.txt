@@ -1,0 +1,41 @@
+ΞΟ] DEMONSTRATIO
+
+Hinc perspicitur, numerum non-residuorum interdum
+effe, vel 2³-ss3 vel P-ss-ff, prout p fuerit numerus vel par,
+
+vei impar, interdum effe etiam maiorem, nunquam vero
+
+effek minorem, omnino vti demonstratio theorematis
+postulat.
+
+THEOREMA. 4,
+
+18. Vt omnia residua, quae ex diuifione qua-
+dratorum per numerum quemcunque p resultare potsunt,
+inueniantur‚ tantum opus est quadrata ab vnitate vsque
+ad terminum (Εἰς-ἵ, vel (ἔθ’, prout p fuerit vel nu-
+
+merus impar, vel par, per p diuidere.
+
+DEMONSTRATIO.
+
+. Ante iam demonstrauimus, omnia residua proue-
+nite ex diuisione horum terminorum:
+
+1‚4,9, x6, ...... (p—1)¹
+deiude vero vidium, ieriem residuorum hinc natorum
+effe reciprocam , seu ordine retrogrado scriptam candem
+manere. Quare refidua omnia ‚ quatenus inter se sunt
+diuersa, reperientur, fi huius seriei termini tantum ad
+¹medietatem Vsque capiantur , vnde fi p fit numerus
+impar ‚ ideoque p -· 1 par, omnes numeri , qui inter
+residua occurrunt , prodibunt ex his terminis:
+
+1, 4, 9, 16 ..... (Es-¹ ²
+
+Sin autem p fit numerus par , quia superior progressio,
+habet terminum medium , qui retrogrediendo sibi ipse
+respondet, residua omnia ex his terminis orientur
+
+ι, 4, 9, 16. . r 0 2 (λζ-Υ. COROLL
+

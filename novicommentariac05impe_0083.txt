@@ -1,0 +1,38 @@
+‘THEOREMATIS FERMATIANL 29
+C o R o L L. ι.
+
+38. Vt igitur veritas theorematis consistat, ne-
+eeffe est, vt numeri r et rs, seu r et s fiut ad diui-
+sorem p primi. Supra enim vidimus, fi s1t p: 12, in
+refiduis reperiri numeros 4 et 0, seu 4 et 12 ‚ hinc
+autem, pofito r: 4 et rs ,τ- 12, non sequitur nume-
+rum s: 3 in refiduis reperiri: quia r et s non sunt ⁷
+numeri ad p primi: ac reuera etiam numerus s inter
+
+non—refidua continetur.
+
+COROLL. 2.
+
+39. Sin autern diuisor p fit numerus primus,
+quia tum omnia refidua α, ἕ, γ, δ, etc. ad eum sunt
+prima, ss in iis occurrant numeri r et rs, tum etiam
+
+certo in iis occurret numerus 5.
+
+COROLL. 3.
+
+40. Si inter refidua occurrant numeri r et s
+primi ad p , quia refiduo r aequiualeutia censenda suut
+residua p -ὶ- r 3 2 p —4- r, etin genere ηρ —4- ν, fi sue·
+rit n p -ι- r :r s , tum etiam numerus t inter residua
+reperietur.
+
+SCHOLION.
+
+41. Ne ad huius modi exceptiones, quando refidua
+non sunt numeri ad p primi, respicere obligemur ‚ in
+sequentibus ponamus diuisorem p semper effe numerum
+
+primum3 et cum refidua ex binario orta fint obuia,
+D ς fit
+

@@ -1,0 +1,38 @@
+IN ANALTSI INFINITORVM. 123
+
+COROLL. 1.
+
+57, Excipi tamen debent ii casus, quibus fun-
+&tionum Z numerus dimensionum n est :- 1, seu
+n -4- 1 Σο, quoniam his casibus reduc'tiones hic adhibitae
+non succedunt.
+
+COROLL. 2.
+
+58. Patet etiam, quaecunque et quotcunque fuerint
+formulae propositae, dummodo eae omnes per substitu-
+¹tionem aut transformationem quampiam ad huiusmodi
+formas su Θ dt reduci queant, eas ornnes semper in-
+tegrabiles reddi poffe.
+
+SCHOLIO'N.
+
+59. Vis igitur methodi haetenus expositae in
+hoc consistit, vt quotquot proponantur formulae integra-
+les duas variabiles x et y inuoluentes‚ dummodo in fin-
+gulis altera variabilis y vnicam obtineat dimensionem
+eiusue differentiale dy , reductio ad valores algebraicos
+semper perfici queat3 hoc ergo euenit, fi singulae for-
+mulae fuerint vel huius generis sdex‚ vel huius sXdy,
+propterea quod huius integratio reuocatur ad hanc sde,
+siquidem X fit funetio quaecunque ipsius x. Atque hi.
+sunt casus , quibus duas pluresue formulas integrales pri-
+mi *ordinis mihi quidem adhuc ad valores algebraicos
+reducere contigit. Dantur vero etiam formulae secundi
+superiorumque ordinum, quas facile ad formulas primi
+ordinis formae sdex reducere licet, ex qim, si eiu-s·
+modi formulae integrales superiorum ordinum occurrant,
+
+resolutio problematum haetenus allatorum perinde suc-
+Q 2 cedet.
+

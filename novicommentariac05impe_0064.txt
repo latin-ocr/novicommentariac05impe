@@ -1,0 +1,38 @@
+10 DEMoNsTRATlo
+
+etc. subtrahatur, prodibit terminus generalis seriei diffe-
+rentiarum ‚ in quo exponens summae potestatis ipsius x
+erit z: m— 1, ideoque series differentiarum ad gra-
+dum interiorem m - 1 pertinebit. Pari modo ex ter-
+mino generali seriei differentiarum primarum colligetur
+terminus genet ilis seriei differentiarum secundarum , qui
+igitur denuo acl gridum depreffioiem m — 2 pertinebit.
+
+§. 11 Ita fi· series proposita ad gridum mrefe
+ratur, stries differentiarum primarum, ad gradum m- 1
+referetur3 series porro differentiarum secundarum ad gra..
+dum m ν 23 series differentiarum tertiarum ad gradum
+m —- 3 3 series differentiarum quartarum ad gradum
+m - 4⁰⁷ et in genere seties differentiarum ordinis n ad
+gradum m — n pertinebit. Vnde series differentiarum
+ordinis m ad gradum m-3m z o perueniet, eiusque
+ergo terminus generalis, quia summa ipsius x potestas
+est :t x⁰ Ξ 1 , erit quantitas constans, ideoque omnes
+differentiae >ordinis m inter st: erunt aequales. Hinc se-
+rierum primi gradus , quarum terminus generalis est
+z Ax -ἱ- Β , iam differentiae primae sunt inter se
+aequales: serierum autem secundi graduS, quae hoc
+termino generali A x² —Js- B x -ι- C continentur, diffe-
+rentiae secundie sunt aequam, et ita porro.
+
+§. Quodsi ergo striem quamcunque potesta-
+tum confidleremus
+
+1, 2m² 3ἠι ‚4²¹ ι 5¹⁸2 6m² ⁷m’ szetc·
+cuius terminus generalis est- - x m, seu is, qui indici x
+respondet ‚ series differentiarum ordinis m ex terminis ina
+ter se aequaiibus constabit. At seriei differentiarum pri·
+marum terminus generalis erit :z (x -ι- 1)⁷'¹·-x⁷⁷¹; qui a
+
+sequente
+

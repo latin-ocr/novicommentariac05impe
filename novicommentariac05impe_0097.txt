@@ -1,0 +1,36 @@
+THEOREMATJS FERMATJANJ. 43
+
+fione quadrati aa per 4n .- 1, relinquitur ets refiduum
+ex diuifione quadrati bb or.tum; atque tam r quam s
+iu serie refiduorum 1, α, β, γ, ὃ, etc. occurret. Iam
+summa quadratorum a a —÷-b b per 4 n — 1 diuifa rea
+linquet refiduum r-†— s, quod cum per hypothesm effe
+debeat Ξ diuisori 4 n - 1, erit s ,τ- 4 n -— 1 .- ν, seu
+s: - r , ideoque s erit complementum refidui r„
+Quare fi r in serie refiduorum contineatur, eius com-
+plementum s in ea certe non occurret: vnde sumto
+quadrato quocunque aa nullum datur aliud quadratum bb
+eiusmodi, vt summa a a ÷hb fiat per numerum pri-
+mum 472—- 1 diuifibilis: nifi ipsum quadratum aa per
+se s1t diuissbile per 4²2- 1, quo casu etiam bb pet
+4 n — 1 diuifibile este debet. Nulla ergo datur summa
+duorum quadratorum inter se primorum, quae fit per
+numerum primum 422- 1 diuifibilis.
+
+COROLL. 1.
+
+71. Non ergo datur huiusmodi formae aa-4- x
+numerus, qui fit per numerum primum 4n— 1 diui-
+fibizis. Ad hoc enim opus esset, vt refiduum ex qua-
+drato aa ortum effet z —- 1, quod autem in (brie re-
+fiduorum non existit.
+
+COROLL. 2.
+
+72. Cum summa duorum quadratorum aa -t-bb
+
+per' nullum numerum primum formae 412 - 1 sit di-
+vjfibiiiS, etiam per nuli-um numerum compositum p,
+qui faetorem primum habet formae 4n — 1, erit diui-
+F 2 sxbssss,
+

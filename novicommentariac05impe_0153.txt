@@ -1,0 +1,41 @@
+IN ANALYSIINFINITORV’M. 99
+
+S Ο L V T Ι O.
+
+Etsi problema hoc multo latius patere videtur,
+quam primum, tamen eius solutio non est difficilior.
+Ponatur enim sde functioni cuicunque algebmicae
+ipsius x, quae sit Ξ X aequale, eritque de Ξ ch et
+Z :{{, vbi cum ‘g sit quoque func‘tio algebraica
+psius x, habebitur aequatio algebraica inter x et y, qua
+earum relatio algebmice definietur: indeque erit per hy-
+pothesin [Ζ dx ε X.
+
+COROLL. 1.
+
+1 ς. six non fit fune'tio algebraica ipsius κ’,
+
+sed eius quampiam inuoluat functionem transcendentem,
+X
+
+veiuti fi fit xz? ÷sde, iti vt n :fid-Qu:
+nihilominus functio algebraica ipsius xz, turn orietur cur-
+va algebraica hac aequatione Z z 2724— Q expreffi,
+sed valor integralis inde oriundus sde non erit alge·-
+braicus ‚ verum functionem transcendentem sde in-
+
+voluer.
+C O R Ο L L. 2.
+
+16. Si pro Q eiusmodi quantitatem substitus*
+mus , qualem in problemate praecedente descripsimus,
+tum valor quidem indefinitus formulae [de non erit
+algebraicus , sed a quadratura quapiam data pendebit.
+Hoc tamen non obstante effici potest, vt eius valor tot
+casibus ‚ quot lubuerit ‚ et quidem datis veluti x z a,
+x:b‚ κει, etc. fiat algebraicus. Vbi quidem no-
+tandum est, in calculo his casibus superaddendum effe
+
+semper casum xzo.
+N 2 1 SCHQ-
+

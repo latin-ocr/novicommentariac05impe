@@ -1,0 +1,40 @@
+3 DEMONSTRATIO·
+
+primus, ex differentiis istis, quarum numerus est: 2 n,
+reperiemus ‚ semper semiffem effe per 4n -—}— 1 diuisi-
+bitem, alterum vero semissem non diuisibilem: quae
+obseruatio etfi ad vim demonstrationis non specht, ta-
+men adeam illustrandam non parum confert, quare
+aliquot casus speciales ad examen reuocaffe iuuabit.
+
+ξ. 8. Minimus numerus primus formae 4 n -ι- 1
+est z: 5, qui oritur, fi n z 13 vnde duae habebuntur
+‘differentiae 2²-1 et 3¹- 2², quarum prior non est diuifi-
+bilis per 5, altera vero *est diuisibilis. Pro reiiquis ca-
+sibus vtamur signo d ad eas differentias indicandas, quae
+sunt diuisibiles , at signo 0 eas notemu5‚ quae non sunt
+diuifibiles‚ quae signa differentiis pto quouis casu, sub-
+
+ 
+
+scribamus
+4n ÷ ι Differentiae
+¹32⁴*13 3⁴''2‘3 *ρ’-,363 5⁶⁴-4‘3 6⁶*5‘3 7j-‘ss6'2
+ο 0 d 0 d d Δ
+¹7 2²·-133⁸-2‘; αι’-»εὴ 5‘-4⁸; ⁶⁸-5'5 7⁵“0“·, ὄϊν-13 9’-8·
+d 0 0 0 d d Ν 0 d
+»ο d 0 d , d d ο 0
+
+10¹⁴—9⁸⁴3 1 1 ¹⁴—10¹⁴31 2¹⁴—1 1 ¹⁴31 3¹⁴—12¹⁴314¹⁴-13¹‘·, 1 5¹⁴-14¹⁴
+
+¹ 0 d d 0 0 d
+
+Hine' patet, terminos diuifibiies et non diuisibiles nulla
+certa lege contineri, etiamsi vtrique fint multitudine
+pares: tamen pet se est perspicuum, Vltimum termi-
+num (2 n÷ 1)2*⁵-—2n ²⁸ semper per 4n÷>1 effe cli-
+visibilem, quia finitorem habet (2 n÷ 1)' «- 4 nn
+,επ-,φη ÷ 1 έ at de reliquis nihil certi statui potest.
+
+§- 9-
+

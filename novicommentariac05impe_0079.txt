@@ -1,0 +1,40 @@
+THEOREMATIS FERMATIANI. 25
+
+rum p oriuntur, occurrant numeri r et s, ibidem quoque
+occurret horum numerorum produstum rs, vel resp
+duum quod ex eius diuifione per numerum p ena-
+
+scitur.
+DEMONSTRATIO.
+
+Proueniet refiduum r ex quadrato aa , et refi-
+duum s ex quadrato bb, erit aa :m p —1—-r, etbb
+:t ηρ 4- 53 hinc fiet quadratum aa bb z mnpp
+4- msp —1-nrp -4-rs ‚ quod ergo per p diuisum refi-
+duum relinquet rs , vel s1 rs > p, idem relinquet re·
+fiduum , quod oritur ex rs. Quare cum refiduum ex
+quadrato aabb natum in serie refiduorum contineatur,
+ibi quoque rs, seu refiduum inde ortum reperietur.
+
+COROLL. 1.
+
+32. In strie ergo refiduorum 1, α, β, v, δ etc.
+fi occurrant duo numeri ν et s, ibidem quoque occurrent
+nonsolum potestates r,r² ‚ ν’,ν4 etc. et s, 5², 5. 5 ‚.etc sed
+etiam produ&a ex binis terminis quibuscunque rs, ν’ 5,
+
+rs‚² r³s‚r r³s⁸ ,Μ’ etc.
+
+COROLL. 2.
+
+ 
+
+. 33. Hmc 1g1tur patet, ίὶΐοτηηὼι( —JW -ς-) in seriem
+resoluatur. 1 -Ι-ν-Ι- 5 -ι- rr -ι- ν5 —÷— 55 -ι- ν3 -ι-νῖσ
+-1- rss 4⁴ s³ -ι- etc. fingulos terminos huius seriei
+in serie refiduorum occurrere ‚ vel etiam resldua ex his
+terminis diuisione per p orta-
+
+Tom.V. Nou. Com.
+’” D ν COROLL.
+

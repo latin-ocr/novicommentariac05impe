@@ -1,0 +1,38 @@
+THEOREMATIS FERMATIANI. ςι
+
+quadratorum assignari potest per numerum p diuifibilis.
+Qiando autem duorum quadratorum summa datur, multo
+magis dabitur summa trium quadratorum, cum forma
+
+aa -μ bb contineatur in forma aa -1— bb -1- cc.
+
+SCHOLION.
+
+89. Simili modo demonstratur, s1 in serie refi-
+duorum occurrat numerus ‚ qui fit complementum sum·
+mae trium residuorum , tum summam quatuor quadrato-
+rum exhiberi poss‘e ‚ quae fit per numerum p diuifibilis.
+Verum fi summae binorum vel ternorum residuorum
+capiantur, tot prodeunt numeri diuersi . vt satis mani-
+festum videatur , eorum omnium complementa in serie
+non reslduorum contineri non posse.
+
+THEOREMA 18.
+
+90. Proposito quocunque numero primo p, fi
+non duorum quadratorum inter se primorum summa pet
+eum diuifibilis exhiberi potest, certo iemper summa
+· trium quadratorum per eum diuifibilis affignari potest,
+ita vt non frug-ula seorsxm per p fint diuifibilia.
+
+DEMONSTRATIO.
+
+Sit 1, α, β γ, δ, ε, etc. series residuorum ex
+diuisione quadratorum per numerum propositum primum
+p orta. Iam in hac serie· vel occurrit - 1, vel non .
+occurrit. Si — 1 ibi occurrit, singulorum reslduorum '
+complementa simul ibi⁴ occurrunt, ideoque piuribus mo-
+
+dis summa duorum quadratorum per p diuisibilis datgr.
+·· G 2 in
+

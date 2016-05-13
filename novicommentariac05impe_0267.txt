@@ -1,0 +1,40 @@
+Ι DIVERGENTIBVS 213
+
+seriebus diuergentibus, non eam notionem cum idea
+flumme coniungamus , quod, quo plures termini astu
+colligantur, eo pro-pius au' valorem summae accedi
+debeat.
+
+ξ. 13. His praemissis nerninem fore arbitror, qui
+me reprehendemium putat, quoti in {enimam sequen-
+tis seriei diiigentius inquiiiucrim:
+
+1—14-2-64-24--120—4-720—50404—40320-&0
+quae est series a Wailiflo hypergeometrica dista , signis
+alternantibus instruet-³. Haec series autem eo magis
+notatu digua videtur , quod plures summandi methodos,
+quae mihi alias in huiusmodi negotio ingentem vsum
+praestiterunt, hic frustra tentauerim. Primo quidem
+dubitare licet, vtrum haec series summam habeat fini.
+tam , nec ne? quia multo magis diuergit‚ quam vlla
+series geometrica3 summam autem geometricarum csse
+finitam, extra dubium est positum. Verumtamen cum
+in geometricis diuergentia non obstet, quominus smtsum-
+mabiles , ita verifimile videtur, et hanc seriem hyper-
+geometricam summam habere finitum. Quaeritur ergo
+in numeris, proxime saltem, valor eius expreffionis finitae,
+ex cuius euolutione ipfa strics proposita nascitur.
+
+§. 14. Primo autem vsus sum methodo, quae
+hoc nititur fundamento: fi proposita fit huiusmodi
+series:
+
+sza—b-ff'ac—d—i--e—f-i-g—-h-aff—-etc,
+
+. atque neglectis signis terminorum a, b, c, d, e, s, etc.
+
+sum-„intur differentiae : b - a, c - b, d - c, e - d, etc.
+
+harumque porro differentiae: c— 2 b—†-a·‚ d- 2 c—i-b3
+D d 3 e-·2d
+

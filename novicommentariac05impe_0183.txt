@@ -1,0 +1,44 @@
+m ANALYSI INFINITORVM. :129
+
+valorem algebraicum obtineat, neque enim video , quo-
+modo huic quaestioni satisfaciendum fit. Quamobrem
+multo minus talia attingo problemata, in quibus duae
+pluoesue huiusmodi formulae ad integr-abilitatem perduci
+debeant. Neque etiarn formulas superiomm *ordinum
+generaliter pertrastare licebit, praeter casum in sequenti
+
+problemate contentum.
+
+PROBEMA 16.
+
+67. Si Z fit funffio nullius dimensionis ipsarum
+dx et dy, ita vt ipffie quantitates finitae x et γ in
+eam non ingrediantur, ad integrabilitatem reducere hanc
+
+ibnnulam Jde.
+S O L V T 1 Ο.
+
+Cum formula differentialis ‘de ita fit compara0 ’
+m, vt praeter quantitates constantes nonnifi diffeoentialia .
+
+dx *et dy contineat, quae propterea vnum dunenfionem
+
+adimplebunt, cuiusmodi sunthae formulae: {3313 Vfczdx‘
+
+Q÷bdy²
+
+÷bdxdy÷cdy²>3 «mam-cist) etc. ponatur dyzpdx,
+atque formula propofita [de induet hanc speciem
+[Ρ dx, ita vt P fiat funffio quantitatis p tantum, ne—
+que x neque y inuoluens. Efficiendum ergo erit, vt non
+
+solum haec formula sde‚ sed etiam ob d y z pdx
+haec dex, algebraicum nanciscatur valorem ‚ quod per
+problema 4. ita duplici modo praestabitur, Cum
+
+enim snt
+sde ,τ sde :r- Px -sde
+
+y z: spdx --. px —firdp
+Tom. V. Nou. Com. R Fiat
+

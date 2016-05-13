@@ -1,0 +1,44 @@
+’ ΤΗΕΟΚΕΛιΑΤις ΡΕΗΔιΑΓιΑΝι ις
+
+³3 2, 3⁸3 4³3 5³3 etc. tertia³ z 1. 2 ,3
+
+ιι 2⁴3 3⁴3 4⁴; 5⁴3 etc. quartas ..- ι 2. 3 -ῐν
+
+1 ; 2”‘; &¹²3 4”¹·, 5⁷²²·‚etc. ordinism z 1. 2.3 . .. m,
+ergo
+
+13 2²⁸3 3²⁷¹·,4²¹ 5²⁸3 e-tc. ordinis 2 n :1.2.3... 272.
+Atque ita quoque demonstrauimus, seriei potestatum-
+1; 2²³3 3²⁷³3 4²⁷¹3 5⁴²'¹ etc. differentias ordinis 271 non
+solum esse constantes, red etiam aequari produsto
+ι. 2. 3 . . . . 271, vti in demonstratione theorematis
+
+propositi affumfimua
+
+THEOREMA 1.
+
+1. Ex serie quadratorum 1, 4, 9‚16‚25, ete.
+nulli numeri per numerum primum p sunt diuifibiles, nifi
+quorum radices sunt per eundem numerum p diuifibiles.
+
+DEMONSTRATIO.
+
+Si 'enim quispiam numerus quadratus aa fuerit
+per numerum primum p d‘iuisibilis , quia ex rhetoribus
+' c et a constat, neceffe est, vt alteruter fiustor per p
+fit diuifibilis, quare numerus quadratus aa per numerum
+primum p diuifibilis effe nequit, nisi eius radix a fit
+diuisibilis per p.
+
+C Ο R Ο L L. ι, .
+
+2. Numeri ergo quadrati per numerum primum
+p diuifibiles nascuntur ex radicibus p 2 p,. 3 p, 4p etc.
+
+suntque ergo pp, 4pp, 9pp, 16pp‚ etc. et reliqui
+numeri quadrati omnes per numerum primum p non
+
+’ erunt diuifibites.
+
+Ba coROLL
+

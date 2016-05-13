@@ -1,0 +1,40 @@
+‘64 ‘OVBSERVATJO
+
+2, 7, 15, 96, 40, 57, 77, 100, 126‚etc.
+diff.1: 5, 8, '11‚ 14, 17, 20, 23, 26 etc,
+diff-⁰2: 3) 3) 3) 3) 37 ’3, 3, etc*
+ideoque terminum generalem habet ΗΜΛ, ac seriem
+*numerorum pentagonalium retro continuatam continet
+
+ξ. 10. Omnino hic notatu est dignum, seriem
+numerorum pentagonalium tarn ipsam, quam retro c‘on-
+tinuatam, ad ordinem seriei summarum diuisorum potis-
+rfimum adhiberi, cum sane nullum nexum inter numeros
+pentagonales et summas diuisorum ne filspicari quidem
+liceat. Si enim series numerorum pentagonalium tam
+antrorsum, quam retrorsum, continuata exponatur hoc
+modo ε
+
+etc 77‚57,40 26, 15,7‚2‚0‚1,5‚12‚22,35‚51‚70‚9·2‚ecc.
+'formula nostra ordinem summarum diuisorum comple-
+&ens fignis alternantibus hoc modo ordinata exhibere
+poterit:
+
+cete.-s(n-15)-÷-s<n-7)-J(n-2)-÷-s(n-0)-J(n- 1)÷s(n-5}-fiu-1 2)-÷-s(n·22)-etc. Σ 0
+‘qnae 'series vtrinq‘ue quidem in infinitum *excurrit , *sed
+*quouis casu, siquidem ad vsum nostrum rite adhibeatur,
+&terminato terminorum numero constat.
+
+ς. 11. Si enim ope formulae ndstr'ae primum
+exhibitae
+
+sn :s(n— 1)÷s(n- 2)—s(n- 5)-s(n— 7)†s( (n-12)÷s(n- 1'5)
+-s(n- 22)-]'( n-2'6)÷s(n-535 )†s(n'- 40)-J'( (n- 51) )s{n-57)
+-1—s(n-70)÷s(n (η-77)-](η- 925)-s(n- 100)÷ etc
+Summam diuisorum numeri n inuenire velimus ex co
+gnitis diuisorum summis numerorum minorum ‚ plures
+
+termi-
+
+ 
+

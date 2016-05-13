@@ -1,0 +1,39 @@
+48 DEMONSTRATIO
+
+torum per p diuifibilis, quae quidem quadrata sint in-
+ter se prima.
+
+COROLL. 4.
+
+83. Nulli ergo alii numeri primi relinquuntur,
+ad quos theorema hoc accommodari queat, nisi qui
+contineantur in hac forma 4714- 1.
+
+SCHOLION.
+
+84. An autem omnes numeri primi formae 47241
+hunc habeant proprietatem , vt in seriebus residuorum
+inde ortis cuiusque termini complementum simul ibidem
+reperiatur, hie nondum est demonstratum, neque despe-
+randum videtur, quin ex his iisdem principiis demonstra-
+tio elici queat , etsi nondum mihi quidem eo pertingere
+licuit. Series autem residuorum ex simplicioribus nu-
+meris primis huius formae ortae sequenti modo ie ha·
+berit ‚ vbi quidem residua semiffe cuiusque numeri ma-
+iora per numeros negatiuos exhibere visum est, quo..
+Ειρϋίιιε, quaenam sint aliorum complementa, appareat:
+
+5 {17-1}=; 13{1,4‚÷4‚·3‚-1‚—3}3 17{1‚4‚—8,—1,8‚2‚-2‚-4}
+
+29 {1² 4· 9‚“13›*4‚ 7)*9) 67* 6> 13) 5,-1,—5 ν ‘’7}
+
+37 {1,4,9‚16‚-12‚—-1,127ae10‚7,-11,107-4.,·—16‚11‚3,-3,-7‚-9}
+h his igitur seriebus perspicuum est, cuiusque termini
+complementum fimul in iis occurrere. Quod autem
+hoc neceffnrio eueniat, fi diuisor sit numerus primns for-
+mae 4n -l- 1, demonstratio ᾱιι·εᾶει adhuc desideratur,
+quae hoc modo institui debere videtur. Prodeat ex nu-
+
+mero primo 4 n -ι- 1 haec sexies residuorum 1 otsssyss,
+etc.
+

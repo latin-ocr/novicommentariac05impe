@@ -1,0 +1,38 @@
+5 DEMONSTRATI'O
+
+{ciiicer numerum 4 n —÷- 1 effe summam duorum
+quadratorum.
+
+§. 5. Vt igitur demonstrem, non omnes nume-
+ros in hac forma cc²”— &³⁷² contentos, seu non omnes
+differentias iuter binus potestates dignitatis 2 n effe per
+4 n -ι- 1 (imitabiles, considerabo seriem hatum potesta-
+tum ab vnitate vsque ad eam , quae a radice 4⁷² for·
+matur.
+
+1, 2⁷²‚3²²'¹‚4 ⁷¹‚,5²'¹ 62⁷² ....... (4rz)²’¹
+ac itm dico, non omnes differentiis inter binos termi-
+nos huius seriei effe per 4n -ὲ- 1 diuifibiles. Si enim
+singulae differentiae primae
+2³·3n—12⁷1m22n342n—32n352n‘42n3. ο (471)²⁷¹-(471-·1)²n
+per 4 n -†— 1 ess'ent diuifibiles‚ etiam differentiae huius
+progreffionis, quae sunt differentiae secundae illius seriei
+-per 4124- 1 essent diuifibiles: atque ob eandem ratio-
+nem differentiae tertiae, quartae, quintae etc. omnes
+forent per 4n -—{- 1 diuifibiles3 ac denique etiarn dif-
+ferentiae ordinis 2 n ‚ quae sunt, vt constat, omnes in·
+ret ie aequales. Differentiae autem ordinis 2 n sunt
+z 1. 2. 3. 4 ....... 272, quae ergo per nume·-
+rum primum 4n 4- 1 non sunt diuffibiles, ex quo
+viciffim sequitur, ne omnes quidem differentias prImas
+per 4 n -4- 1 effe diuifibiles.
+
+ς. 6. Quo vis huius demonstrationis melius pet-
+spiciatur‚ notandum est, differentiam ordinis 2 n pro·-
+duci ex 2 n -1- 1 terminis seriei propositae, qui fi ab
+initio capiantur, omnes ita sunt comparati, vt bino-⁴
+mm quorumuis differentiae per 47² -÷- 1 dinifibiles ef-
+‘se debeant ‚ fi theorematis veritas negetur. Sin autern
+
+plures
+

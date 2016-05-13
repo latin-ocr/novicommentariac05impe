@@ -1,0 +1,38 @@
+IN ANALYSI INFINITORVM. 91
+
+gitari poss‘unt ‚ quae nullam plane solutionem admittunt3
+omniuo vti vsu venire solet in problematibus ad metho-
+dum Diophanteam pertinentibus. Vnde etiam slne du-
+bio haec fimilitudo locum inueniet, vt alia problemata
+solutionem gen‘ralem ‚ alia vero tantum solutiones spe.
+ciales perm‘u'Tnt.
+
+Huiusmodi igitur problemata hic tantum proferam,
+quorum solutionem inueni , vt hoc modo specimen ac
+prima quafi elementa nouae methodi, quam vltetius
+excolendam propono, exhibeam, quae etsi exiguam
+tanturn partem huius methodi constituere videntur , ta-
+men vi m, qua vlterius progredi liceat , patefficient.
+Certa at. :m inde earum operationum ratio perspicietur,
+quae directe nihilque diuinntioni tribuendo ad lolutiones
+eorum problematum, quae ante commemoraui, perducant.
+
+LEMMA.
+
+1. formula sydx erit algebraica, fi haec sxdy
+fuerit talis, et ὅ. remum, a qua quadratura pendebit inte-
+gratio alterius Jormulae sy dx , ab eadem quoque alterius
+s x dy integratio pendebit.
+
+Demonstratio ‘st manifesta, cum sit sy dx ;.- x y
+-sxdy‚ vnde patet, 5² formula sx dy fuerit vel alge-
+braica, vel datam quadraturam implicans, eandem quo·
+que naturam habere alter. η formulam sy dx.
+
+COROLL-JRIVM.
+
+s 2. Simili modo integratio huius formulae syxdx‚
+vel huius sy x⁷¹dx pendebit ab⁸ integratione huius
+
+M 2 sxxdy
+

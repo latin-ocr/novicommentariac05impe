@@ -1,0 +1,38 @@
+46 DEMONSTRATIO
+fit m(4n—-1)::aa-†-bb, ss quidem a eth smt
+
+numeri inter se primi.
+T H E O R E M A 15.
+
+78. Nullus numerus in hac forma 4mn—-m—rz
+cowemus, quicunque numeri pro m et n capiantur, vn-
+quam effe potest quadratum.
+
+DEMONSTRATIO.
+
+Cum nullus numerus, qui finitorem habet 4 n — 1,
+effe queat summa duorum quadratorum inter se primo-
+rum , stu quae praetet' vnitatem nullum habeant com-
+munem diuisorem , sequitur fieri non poffe ‚ vt fit
+(4m—1)(4n—1):1-†-aa, Ergo non erit
+16 m η - 4 m - 4 n :z a a z vnde ne eius quadrans
+quidem 4 m n-m '- n vnquam quadratum effe potest.
+
+THEOREMA 16.
+
+79. Si in serie refiduorum 1, α, β, Ὑ, δ, etc.
+quae ex diuifione quadr'atorum per numerum quemcun-
+que p -refilltant, cuiuspiam refidui complementum in
+eadem serie refiduorum occurrat, turn duo quadrata
+exhiberi poterunt, quorum summa fit per eundem nu-
+merum p diuifibilis, etiamst neutrum leorfim per p fit
+
+’ diuissbile.
+
+DEMONSTRATIO.
+
+Praebeat quadratum a a refiduum 4: r, quadratum
+
+autem bb refiduum ..-.:—r leu p -· r, quod illius lest
+- comp e-
+

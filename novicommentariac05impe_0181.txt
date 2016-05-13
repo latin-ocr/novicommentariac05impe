@@ -1,0 +1,44 @@
+IN ANALYSI INFINITORVM. 127
+
+mutabiles, atque formulas s Z dy perinde trzie'tari poffe,
+ac s Z dx. Quibus ergo cnfibusr huiusmodi> formulis
+s(V dx ›4- Z dy) valores algebraicos conciliare potue-
+rim, explicabo. '
+PROBLEMA ις.
+
+65. Si V et Z denotent fiinffi0ne5 ipsa‘rumxet y,
+inuenire relationem algebraicam inter x et y, vt haec
+formula s (V dx -i- Ζ cl y) aigebtaicum obtineat va-
+iorem.
+
+S O L V· T 1 O.
+
+Ι. Dispiciatur primo, vtrum altera pars s V dx,
+vel [Ζ dy, per lemma reduci poffit‚ vt fiat
+velJdetzP—sQdy,
+velsZdyzR-sde.
+
+Si alterurn enim succedit, solutio erit facilis: priori enim
+casu habebitur. ⁷
+[Ν dx÷zdyizp÷s(z—Q) dy, posteriori vero
+J'(de2÷Zdy):R÷s(.V— S)dx·‚.
+Vtrauis autem haec formula nullam habet difficultatem
+per problema 3.
+
+11. Si hoc modo reduecio inueniri nequeat, indagetur
+
+funffio algebraica ipsarum x ety, quae fit ΞΡ, vt
+
+vdxss—Z-ff—'y- fiat differenti-ile functionis cuiuspiam algebrai-
+
+ 
+
+cae Q ipsarum x ety, hoc enim casu fiet s(V dx
+-ι- Z d y) :s P d Q, quae ffirmula nulla difficultate ad
+integrabilitatem perducitur per problema 3·
+
+111. Saepe etiam huiusmodi fimffio algebraica
+ipsarum x et y puta T inueni'si potest , cuius diffiten-
+tiali existente Ξ Ρ d x »Ι- Qd y ‚ fi ponatur· ι
+s (V d x
+

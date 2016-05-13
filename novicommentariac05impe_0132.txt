@@ -1,0 +1,53 @@
+78 DEMONSTRAHO THEOREMAT18
+
+PROPOSITIO ΙΙΙ.
+Si filerit s :z (1,—x) (1-x²)(1-x³)(1-x⁴)(1—x‘)
+(1-x⁶)(1-x') etc. erit hoc producium infinitum per
+multiplicationem euolueudo, terminosque secundum po·
+
+aestates ipsius x disponendo:
+‘s :1—x¹-—x²-÷-x⁵-÷-x⁷-x¹²-x¹ ⁵÷x²²÷x²⁶—x³⁵—x⁴0÷xs 14457...άῆ
+
+cuius seriei ratio est ea ipsa, quae supra est exposita.
+
+DEMONSTRATIO.
+
+Cum fit s z: (1—x) (1—x²) (1-x⁵) <1—x⁴)(1-x⁵)
+(1—x⁶)(1-x⁷) etc. erit s :z 1-x-—xx(1—x)‹x²( 1—x)(1-x²)
+...χ’(ι -x)(1 —x²)(1—-x³) —l— etc.
+
+Ponatur J z 1—‘x—Axx, erit:
+
+A :z 1—x÷x(1—x)( ¹-2cx)-i—x‘<1-xllr-—x2M1--x3i -i-ere.
+Euoiuantur singuli termini tantum secundum factorem
+1—x, ac sequenti modo disponantur:
+
+-χ -x2'1—xx) —x³<1—-x²))1-x³) ...erg
+
+Α Σ -ὶ- ¹ -l·-x(1-xx)-4-x2⁸(¹—-x¹)(1-x³)-4-x³[1-x²)(¹-x³)(x.{-x⁴).4.2sg‚
+eritque terminis subscriptis colligendis:
+
+A Σ 1 —x3--225 (1—x²)—x⁷(1 -x²) (i—x³)--x9<1—x2X1—x3)(1-x⁴)-220,
+,Ponatur A z: 1 -x³— Bx⁵ , erit
+
+13: 1-x2-i-x2(=—x²i(=-x¹)-÷-x⁴(=—x²)< 1—x³1<1 -κη -i- etc-
+
+in quibus terminis subscriptis 1 -x² tantum euoluatur,
+
+ac fiet
+B Ξ ...2:- 3 —xffi-xp —2t⁶(1-x³)(1—x⁴)
+ι -4-20 (1—x »μύω-κ l(1—x⁴)-÷-2⁶(1--x³)fl-x⁴)(1—ae⁵)
+
+denuoque terminis subscriptis colligendis habebitur:
+
+B: 1-xs-x·<1—-x³)-x¹¹<1—x³><1—x⁴>—x¹⁴i1-—x³)‹1—-x⁴)<1-—x³>-²u
+Ponatur B z 1 -x⁵ -C κ’ , erit
+
+C: 1—x³-÷-x⁸( ¹-x³)(1-x⁴)-÷-x⁶( 1——x³)(¹-x⁴)lx -x⁵) -l- erc·
+vbi in singulis terminis faetor 1 - ,τ’ euoluatur ‚ vt fiat
+
+scribendo vt supra: , ¹ (
+
+-—.
+.-
+

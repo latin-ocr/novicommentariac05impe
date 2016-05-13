@@ -1,0 +1,39 @@
+IN ANALYSI INFINITORVM. 121
+C Ο R O L L. 1.
+
+53. Si vna quaedam formularum propositarum,
+⁴veluti s 31de, a data quadratura pendere debeat , ea
+in operatione ad finem vsque est restruanda , id quod
+12 modis diuersis fieri potest. Sin autem duae formu-
+lae datae, veluti syR dx et sy S dx, a datis quadra-
+turis pendere debeant, hoc nonnisi duobus modis diuerfis
+praestabitur.
+
+COROLL· 2.
+
+54. Hinc etiam patet, eundem soluendi modum
+ad quinque, pluresque , quotquot proponantur ‚ similes
+formulas extendi, dummodo quaelibet formula habeat
+speciem sdex vel s P d y, existente P fune'tione
+ipsius x, ita vt in singulis formulis altera variabilis y
+nonnisi vnicam obtineat dimenfionem.
+
+COROLL. 3.
+
+55. Quemadmodum in casu duarum huiusmodi
+formularum propositarum reperiri poffunt 3 solutiones
+et in casu trium formularum 9 solutione53 fic in casu
+4 formularum inueniuntur 4. 9 Ξ 36 solutiones. At-
+que porro in casu 5 formularum ς. 36 z 180 solu·
+
+tiones ‚ in casu 6 formularum 6. 180: 1080 solu·
+tiones, et ita porro.
+
+PROBLEMA'13.
+
+56. Si propositae fuerint quotcunque huiusmodi
+formulae integrales sde vel s Z dy, in quibus
+omnibus Z fit funffio homogenea ipsarum x et y, et
+
+Tom. V. Nou. Com. Q in
+

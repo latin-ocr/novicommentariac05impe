@@ -1,0 +1,35 @@
+&³2³3ss )( 0 )( effigie 75
+DEMONSTRATIO
+
+THEOREMATIS CIRCA ORDINEM
+1N vamls olvlsORvM
+OBSERVATVM.
+
+AVCT. L. EVLERO.
+
+Iam ab aliquo tempore incidi in theorema, quo natu-
+' ra numerorum non mediocriter illustrari est visa,
+cum in eo ordo contineatur , quem summae diuisor-um,
+ex numeris serie naturali procedentibus ortae, inter se
+tenent. Ostendi enim, fi singulorum numerorum natu-
+talium 1, 2, 3, 4, ς, 6, 7, 8, etc. omnes diuisores
+
+in vnum summam colligantur, haeque diuisorum summae
+in seriem disponantur, quae erit
+
+1‚3‚4,7‚6‚12‚ 8‚15,13‚18,12,28‚14,24,24,31,18etc.
+hanc seriem effe recurrentem , eiusque fingulos terminos
+ex praecedentibus secundum quandam scalam relationis
+determinari. Atque hic ‘ordo non solum ideo maxime
+notatu dignus est visus , quod vix quisquam suspicatus
+fuerit, hanc seriem certae cuipiam legi effe adstrictam,
+fied etiam, quod istius ordinis nullam demonstrationem
+firmam mihi quidem tum temporis reperire licuerit,
+etiamsi pluribus modis rem tentauerim. Perductus qui-
+dem fui ad huius ordinib obseruationem, dum‘sequentem
+formulam in infinitum productam sum contemplatus:
+s ,τ- (1-x)(1—-x')(1—x³)( 1 -—x⁴)( 1 -x⁵)(1 -x⁶)( 1 -x') etc.
+ex cuius euolutione per induitionem conclufi, fore
+s :.-.. 1 - x - x²÷x⁵÷x⁷--x¹²-x¹ ⁵÷x'²-†x²⁶-x³⁵—x⁴⁰÷ etc.
+K 2. vbi
+

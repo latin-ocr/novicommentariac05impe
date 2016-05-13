@@ -1,0 +1,40 @@
+THEOREMATIS FERMATIANI. ,μ
+T H E O R E M A 12.
+
+67. Si omnia quadrata per numerum primum
+Ξ 4 n - 1 diuiduntur, indeque oriatur series rendum
+rum 1, α, β, Ὺ, ὂ, etc. nullius refidm complementum
+ssmul in hac lerie refiduorum continebitur.
+
+DEMONSTRATIO.
+
+Omnia refidua resultant ex diuifione horum vqua-
+dratorum ι
+
+1> 4, 9, 16, 25, . . .....(2n-1)²
+residua: 1, α, β, ry, ὃ, ....... ’ν
+numerus ergo horum refiduorum cst z: 2 n — 1 ideo-
+
+que impar. At fi vuius refiduioecomplementum p-ot
+
+’ leu — α in eadem serie extaret, tum fimul omnium re-
+
+fiduorum complementa ibidem occurrere deberent, fic-
+que cum vnnmquodqne refiduum bis ‚1 nempe cum
+figno —†- et cnm fignof -- adesset, numerus residuorum
+esset par. Quare cum fit impar, fieri nequit , vt vel
+vnici residui complementum simul in eadem refiduorum
+serie contineatur.
+
+COROLL. 1.
+
+67. Si vltimus strici residuorum terminus ponatur
+z: ν, qnia oritur ex quadrato (2 n— 1)² :amn — 4n÷ t
+per 471 - 1 diuiso , erit refiduum ν z — :3 n--}- 1
+z n, sumto quoto n — 1. Ergo eius complementum
+
+·.-n ieu 3 n— 1 in serie refiduorum non reperitur.
+Numerus
+
+Tom. V. Nou. Com. F
+

@@ -1,0 +1,36 @@
+THEOREMATIS FERMATIANI. 33
+
+Ressdua hic eo ordine , quo ex quadratis nascuntur, sunt
+posita, non - refidua autem , quia nullo ordine conneetun-
+tur, a minimis ad maiora progrediendo conoe-animus,
+Exemp1a haec quoque in eum finem seruire poterunt,
+vt in iis proprietates refiduorum ante demonstratae exa-
+minentur.
+
+THEOREMA 9.
+
+47. Si ex diuifione quadratorum per numerum
+primum p: κρῆ-ι nascatur haec series refiduorum,
+1, α, ξ, γ, ὃ , etc. haecque seties non-refiduorum
+a, b, c, d, ε, etc. atque in hac serie non - refiduorum
+occurrat numerus r, in eadem quoque occurrent omnes
+hi numeri αν, ἓν, vr, δν, etc. vel eorum tefidua
+diuifione per p reneka.
+
+DEMONSTRATIO.
+
+Quicunque enim horum numerorum, vt αν, vel
+in serie refiduorum continetur ‚ ve} in ferie non - refi-
+duorum. At cum α in ierie refiduorum contineatur, fi
+αν ibidem contineretur, necessario qnoque r in serie re-
+fiduorum existeret. Quare cum per 'hypothesm r fit
+numerus ex statie non-refiduorum, numerus αν non erit
+in serie refiduorum ‚ habebit ergo ar locum in serie
+non-tefiduorum , quod idem de numetis ἓν, fyr, ὃν, etc.
+valet: Quod autem demonstrauimus de his produffis
+βν, vr, ὃν, etc. s1 fiut maiora, quam p, id intefligen·
+dum est de refidnis, quae haec prodwsta per p diuisa
+relinquunt.
+
+T om, V. Nou. Corn. E · COROL.
+

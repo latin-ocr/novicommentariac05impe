@@ -1,0 +1,38 @@
+100 DE METHODO DIOPHANTEAE ANALOQ(
+s c H o L 1 o N.
+
+17. Si igitur vnica proponatur formula integralis⁴
+ad valorem algebraicum reducenda ‚ eaque pertineat ad
+ordinem primum , tum quaestio nulla laboratdifficultate..
+Atque simul pari opera effici potest , vt illius formulae
+integratio a data quadratura pendeat, atque infiaper (t
+tot, quot quis voluerit, casibus algebraicusn obtineat va-
+lorem. Antequam igitur ad formulas sequentium ordi-
+num progrediar‚ eiusmodi problemata proponam ‚ qui-
+bus duae pluresue formulae ordinis primi simul ad valo-
+res algebraicos sint reducendae3 ita vt existentibus
+V et Z functionibus ipsarum x et y, valores harum
+duarum formularum s V dx et sde vel plurium hu·-
+iusmodi algebraici sint efficiendi. Hic quidem ante
+omnia animaduerto , haec problemata in genere concepta
+mihi quidem non solubilia videri, sed nonnisi sub certis
+conditionibus, quibus functiones V et Z sint praeditae,
+solutionem admittere. Quibus igitur casibus mihi qui·
+dem ad solutionem peruenire licuerit, hic exponam.
+
+PROBLEMA 4.
+
+18. Si P et Q stnt functiones quaecunque ipsius
+..κῃ inuenire relationem ideoneam inter variabiles ,τ et y,
+
+vt ambae hae formulae sy de et sy de valores al-
+gebraicos adipiscantur.
+
+SOLVTIO.
+
+Ponatur vtraque formula seorfim aequalis quantitati
+cuicunque· algebraicae ‚ scilicet
+
+sdeszetsdex-:Mq H.
+mc
+

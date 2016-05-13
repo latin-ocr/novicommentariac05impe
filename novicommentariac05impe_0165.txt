@@ -1,0 +1,40 @@
+IN ANALYSI INFINITORVM. 111
+
+ditio igitur, snb qua redustio proposit-arum f(›rmu'=ariim
+
+succedit, postulat, vt formula differentialis Pm-—LRQTTJ dx
+integrationem admittat.
+
+PROBLEMA 8.
+
+38. Si V et Z fint funffiones ipsarum x ety
+homogeneae, atque V sanstio m dimensionum, Z vero
+funetio n dimensionum, inuenire relationem algebraicam
+inter x et y, qun duae hae formulae:
+
+sde et sZ dx tendantur integmbiies.
+
+SOLV'TIO.
+
+Quia V et Z sunt fiinstiones homogeneae‚ ita
+‘vt ambae variabiles :c et y vbique eundem dimensionum
+numerum compleant, ibi nempe dimensionum nnmerum
+m, hic vero n: ponatur y :2023 atque func'tio V abi—
+bit in xmp, et Z in ΝΩ, vbi Ρ et Q erunt functio·
+nes quantitatis t. Ita cum per hcine substitutionem fiat
+
+szmP et sz²'Q‚
+formulae ad reducendum propofitae erunt
+smedx et sand x,
+vbi P et Q sunt funstiones alterius variabilis t, cuins
+
+ad x relationem inuestigare oportet. Iam hae duae
+fiormulae ex duabus variabilibus t et x constantes redu-
+
+cuntur ad , ,
+. JP xmdx t: ,3¹43- P x”¹·⁴‘'¹-n'—„‡„-, sxmss¹dp
+
+’ sandx z 142 wa- —ss- fxi-nm
+
+dommo„
+

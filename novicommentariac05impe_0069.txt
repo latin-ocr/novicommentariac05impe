@@ -1,0 +1,38 @@
+THEOREMATIS FERMATIANI. 15
+
+dantur ‚ idem dabunt residuum 2: 1. Similique modo
+termini secundi 4, (P42 ὶῗ, (2p†2)²‚ (3p—1—2)² etc.
+per p diuisi aequalia producent residua Ξ 4, fi quidem
+fit p > 4. ‘Eodemque modo patet‚' terminos tertios
+aequalia praebere residua, itemque quartos et quintos etc.
+Atque in genere, si primi membri terminus quotuscunque
+fit nn, reliquorum membrorum termini analogi erunt
+(p-ff—n)², (2p—k-n)¹‚ (ap-bn)² etc. qui omnes per
+p diuifi idem relinquunt residuum, quod terminusnn.
+In singulis ergo membris eadem redeunt residua eodem-
+que ordine.
+
+COROLL. 1.
+
+6. Si igitur nouerimus refidua‚ quae ex terminis
+primi membri nascuntur ‚ simul habebimus residua, quae
+ex diuisione omnium reliquorum membrorum per numerum
+p fasta oriuntur.
+
+COROLL. 2.
+
+,
+
+7. Quia postremus cuiusque membri terminus
+per numerum p diuisibilis existit ‚ residuum erit z θ’,
+quemadmodum primi cuiusque membri termini residuum
+’ est z: 1. Secundorum vero terminorum cuiusque mem-
+bri refiduum erit :: 4, et tertiorum z 9, quartorum
+τ..- 16 etc. si quidem sitp > 4, etp > 9, etp> 16etc.
+
+COROLL. 3.
+
+8. Quamdiu enim numeri quadrati 1, 4, 9, 16, etc.
+minores sunt, quam numerus p, illi ipfi ressdua consti-
+· tuent.
+

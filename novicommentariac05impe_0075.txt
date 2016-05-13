@@ -1,0 +1,39 @@
+THEOREMATIS FERMAT-IANL 2-1..
+C O R O L L. 1.
+
+19. Si igitur p fit numerus impar, puta p: 2q÷ 1,
+omnia refidua ex his tantum quadratis
+1‚4‚9‚16.....qq
+
+cognoscentur. At fi p fit numerus par, puta p:- 2 q,
+
+haec quadrata 1, 4, 9, 16 ..... qq omnia produ-
+cent refidua.
+
+COROLL. 2.
+
+20. Si haec refidua omnia inter se fuerint in-
+aequalia, cum eorum numerus fit z q, casu priori, quo*
+p Ξ 2 q -{— 1, et p - 1 z: 2 q, numerus non-refiduo-
+² rum erit z: q. Casu posteriori, quo z p z: 2 q, et
+p - 1 z 2q —— 1, omnium nou-rcfiduorum numerus etirg
+Ξ q — 1.
+
+COROLL. 3.
+
+2r. Si a fit numerus quicunque non maior, quam
+,2:¹‚vel ξ, atque refiduum constet, quod ex diuifione
+
+qu²adrati aa per numerum p resultat, omnia quadrata
+in hac forma generali (n p ὲ ιι )² contenta idem prae· ‚
+bebunt refiduum. At numeri omnes omnino in form-³.
+n p ὲ a includuntur, ita vt a non excedat vel ἑτέ, vel Ξ.
+
+SCHOLION.
+
+22. Quo indolem numerorum , qui sunt refidua,
+facilius explorare liceat, seriem refiduorum repraesenter
+
+mus his litteris x. α. β. Ύ. g. ε. ζ. εις. pro diuisor&
+3 Pu
+

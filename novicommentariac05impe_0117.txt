@@ -1,0 +1,42 @@
+DE SVMMIS D1V1SORVM. 63
+
+videtur, nihilominus in hoc serierum genere contineri
+eiusque scalam relationis assignari posse?
+
+ς. 8. Cum huius seriei terminus indici n respon-
+denS, qui indicat tummim diuisorum numeri n fit
+:Jn, eius termini antecedentes ordine retrogrado erunt
+J(n“¹)ffs<n”2)>s(n-3'5s(7²-4)2s(⁷² ““” 5.)th Qlili
+bet autem terminus istius seriei scilicet sn ita ex aliquot
+antecedentium c01ifl;,1tur vt sit:
+
+sn: s(n- )¹†s{⁷²“ 2 )-(sn- 5)-J<n- 7)÷J(n-12)÷s(n- 15)
+- J‘n-22)-s(n-26) )-÷sn 35)η]<η- 40)-J(n·- 51)-J(n- 57)
+÷s02 -3-0)÷f(n n-77 -sn 92)-s n-100)†J(n-117)÷s(n-126) etc. .
+
+Vel cnm signa -÷— et - alternatim binos terminos af-
+fici-int, 1)·ιεε {eries commode in duas diuellitur, hoc modo:
+
+[ΠΜ -s-12 5) >÷sn-12> -s<2n— 2>÷s<n 55) J-sn ⁵1)÷etc.
+s(-'² 2Η an 7 †J†²-15)-l(⁷¹ 2⁶)†J⁷140>-s22-57) ÷ etc.
+
+§. 9 Ex hac posteriori fin-ma ordo numerorum,
+qui in Vtraque serie succeffiue a numero n subtrahunthr‚
+ficile perspicitur, Vtraque enim series est (exeundi ordinis,
+differentias secundas habens constantes. Namque prioris
+seriei numeri cum iuis differentiis tam primis, quam
+secundis, sunt:
+
+1, 5, 124 22, 35, 51, 70, 92, 117, etc.
+diffix. 4, 7, 10, 13, 16, 19, 22, 25, etc)
+diff- 2· s, 3, 3, a, a, 3, a, etc-
+
+Vnde illius seriei terminus generalis est Ξ *Μ’*Ἀ , con-
+
+tsinotqugst adeo omnes numeros pentagonale'st Altem'
+mes
+
+ 
+
+2» 7,
+

@@ -1,0 +1,36 @@
+IN ANALYSI INFINITORV'M. 131
+
+SCHOLION.
+
+6'9. Vt igitur finem huic disquisitioni imponam,
+eximium eius Vsum in soluendis praecipuis huius generis
+pioblematibus, quae quidem adhuc sunt agitata ‚ osten-
+dam. Versantur autem haec problemata potissimum
+circa curuas testificabiles algebraicas, quamobrem ex
+methodis haetenus traditis plures deriuabo regulas , qua-
+rum ope tot, quot lubuerit‚ curuas algebraicas testifica-
+biles reperire liceat, vnde simul patebit, quomodo eius-
+modi curuae algebtaicae sint inueniendae, quarum inte-
+gratio a data pendeat quadratura , ita vt omnia proble-
+mata, quae ope cuiuspiam quadraturae fint construosta,
+facile perrectificationem curuae algebraicae expediri pos-
+fint. Tum vero non magis erit difficile eiusmodi cut-
+vas algebraicas exhibere, quarum rectificatio indefinita a
+data quadratura pendeat, quae tamen nihilo minus vnum
+pluresue imo praecise tot ‚ quot lubuerit , habeant arcus
+definitos algebraice affignabiles. Denique solutionem
+mei illius problematis dc duabus curuis ‚ in quibus ar..
+cuum communi abscissae respondentium sumnia, fiat al-
+gebraica‚ ex his principiis deducam,
+
+PROBLEMA 17.
+
+70. Inuenire curuas algebraicas testificabiles‚ ieri
+quarum ornnes arcus aigehraice exhiberi queant.
+
+SOLVTIO.
+
+Sint curuae coordinatae orthogonales x et y, ²11·-
+cusque his coordinatis respondens :z z. Primo⁴ igitur
+R 2 quae-
+

@@ -1,0 +1,35 @@
+28 DEMONSTRATm
+T H E OR E M A. 7.
+
+37. Si in serie refiduorum 1, α, β, γ, δ’, etc.
+quae ex diuifione quadratorum per numerum p prode-
+unt, reperiantur numeri r et r s, qui smt ad p primi,
+quorum ille huius est fastor, tunc in eadem refiduorum
+serie etiam numerus s continebitur.
+
+DEMONSTRATIO.
+
+ProuenIat residuum rex quadrato aa et r s ex bb,
+erit aazmp÷·r‚ et bb-:np—l-ss: vnde fit
+bb-—aasznp-mps, ficque bb—aas erit per
+p diuifibile. At cum r et r s smt numeri ad p pri-
+mi, erunt quoque quadrata aa et bb ad p prima,
+vnde fi haec quadrata aa et bb iuter se non fint pri·
+ma ‚ per communem diuisorem quadratum ad prima
+reduci poterunt, ita vt bb— a a s maneat, per p di-
+vifibile. Sint ergoh et a numeri inter se primi, at-
+que cum etiam haec forma (m p ὲ b)² —- aa s fit' pet
+p diuifibilis , {emper pro m eiusmodi numerus affignari
+potest ‚ vt fiat m p ὲ- b multiplum ipfius a. Sit ergo
+mpss b:ac‚ erit aacc—-aas per p diuiflbile‚
+quod cum fit :aa‘ (cc -η , alterque fastor aa fit
+ad p primus , necesse est, vt alter Ειᾶοτ cc — s per p
+fit diuifibilis ‚ vnde quadtzitum cc per p diuisum relin-
+
+quet s, ex quo numerus sin serie refiduorum 1, a, ¹834& ,
+
+etc. reperietur, fiquidem ibi numeri r et rs occurrant,
+iique fint ad p primi.
+
+coxere
+

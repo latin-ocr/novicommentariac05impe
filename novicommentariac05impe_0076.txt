@@ -1,0 +1,36 @@
+. 22 ν DEMONSTRATIO
+
+p, ita vt numerus horum terminorum fit vestit—2 vel ξ,
+prout p fit vel uumerus impar, vel par. Primo igitur
+patet, in hae serie 1. α, β. γ. ὃ. ε. etc. occurrere,
+ordine omnes numeros quadratos 1, 4, 9, 16 etc.
+qui quidem sint ipso numero p minores: reliquos :tutem
+effe refidua, quae in diuisione maiorum quadratorum per
+eundem numerum p relinquuntur. Reliquas proprietates
+residuorum in sequentibus theorematis indagabimus.
+
+THEOREMA. ς.
+
+23. Si‘ in serie residuorum 1, α, β, Ύ, δ, etc. oc-
+currat numerus quicunque r, ibidem 'quoqne reperientur
+omnes potestates ipsius 7⁸², ν’, νζ r⁵, etc, seu residua,
+quae ex harum potestatum diuifione per numerum pro-
+pofitum p, nascuntur.
+
+DEMONSTRATIO.
+
+Emergat refiduum r ex quadrato aa, ita vt fit
+a a :2- mp —÷—r; et quadratum ιι4 z: (mp -Js- r)² per
+p diuisum idem dabit residuum , quod oritur ex rr3
+atque ex quadrato a⁶ z: (mp 4- r)³ idem oritur resl—
+duum , quod ex 7⁶³3 similique modo residua quadratorum
+·a', a'⁰, a¹², etc. conuenient cum residuis terminorum
+ν’, r⁵, r‘, etc. At refidua ex omnibus quadratis quan-
+tumuis magnis oriunda iam proueniunt ex quadratis mini-
+mis 1, 4, 9, 16 ...... (Εἴ-Ὺ, vel (122)¹, ideoque
+continentur in serie refiduorum 1, α, β, v, δ, etc.
+Ergo fi in hac serie occurrit numerus r, ibidem quoque
+occurrent termini ν’, r‘, ν’, 7⁸⁵, etc. seu residua, quae ex
+
+eorum diuisione per diuiso-rem propositum p relingglggffi„ Δ
+

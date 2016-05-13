@@ -1,0 +1,14 @@
+74. οΒςΕιΞνΑΤῑο
+
+quidem casu lex fignorum perturbatur. His autem
+cafibus numerus absolutus insuper cum figno suo adimen-
+dus ipfi numero propofito est aequali53 atque fi legem
+ante descriptam confideremus , hune numerum vtique
+deprehendemus respondere termino s(n-ssn): vnde ratio
+patet, cur quoties in applicatione formae
+sn:s(n—-1)÷s(n—2)—s(n-5)-s(n-7)-1—s(n-—1‚2)-÷-etc.
+peruenitur ad terminum s(n-n) ‚ is'non omitti, sed
+pro eius valore ipse numerus n scribi debeat. Hinc
+igitur regula supra expofita in omnibus partibus con-2
+firmatur.
+

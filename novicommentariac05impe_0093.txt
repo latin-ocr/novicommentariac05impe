@@ -1,0 +1,35 @@
+THEOREMATJS FERMATJANI. 39
+c O R 0 L L„ 3.
+
+64. Si igitur q est numerus impar, put-‚1 qzzn ÷ 1,
+ita vt sit p z: 4 n 4- 3, in serie residuorum nulius
+plane occurrit numerus, cuins coiriplssmcmum simui in
+ea serie contineatur. Omnia crgo complementa hoc
+casu in seriem non residuorum ingredientur7 critque vti-inque
+terminorum numerus impar z: q z 2 η -1— 1.
+
+'scr10L10N.
+
+. 65. Hinc ergo summum discrimen agnoscitur,
+qnod inter numeros primos p: zq—Js- 1 intercedit,
+prout q fuerit numerus par, vel impar: cum posteriori
+casn certo tciamus, nuliius residui complementum in
+residuorum serie continen' Quiris} ergo prioricafu po·
+namus q :z 2 n , posteriori q :1 2 n - 1, illo casu erit
+numerus primus p z 4 n -ι- 1, hoc vero ρ Ξ 4 n— 13
+'vnde patet, omnes numeros primos, binario excepto, vel
+vnit-ate superare multiplum quaternarii, ve! vnitate ab
+eo deficere3 ficqne dua„ obtinemus numerorum classes,
+quarum altem in forma 4 n —†- 1, altera in finni-014 n- 1,
+continetur. Prioris claffis 4 n 4- 1 sunt ergo numeri
+primi: 5,13·17‚29‚37‚41‚53,61‚73‚89297, etc-
+posterioris vero clais„ 4⁷² — 1 hi: 3, 7, 11, 19, 23,
+31, 43. 47, 59, 672 71, 792 83- De ”Umefis Psi·
+mis ciaffis prioris Fermatius olim pronunciauit, finguios
+efle aggregata duorum quadratoffm , enin„ theorematis
+veritatem nuper tandem post plnres conatus demonstrarii.
+De numeris autem posterioris classis faciie ostenditur,
+nulium eorum este summam duorum qriadmtorum3 quin
+
+etiam
+

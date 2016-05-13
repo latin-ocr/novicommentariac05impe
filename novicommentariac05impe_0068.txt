@@ -1,0 +1,42 @@
+1742·-
+
+84 DEMONSTR'ATIO
+C O R Ο L L. 2.
+
+3. Si ergo numeri quadrati, quorum radices in
+hac progressione arithmetica p, 2 p, 3 p, 4p, etc. non
+continentur, per numerum primum p diuiduntur, in
+diuisione semper residuum remanebit, quod erit minus,
+quam numerus p.
+
+SCHOLION.
+
+4. Cuiusmodi sint haec residua, quae ex diuisione
+fingulorum quadratorum per numerum primum quemcun-
+que p nascuntur‚ in hac dissertatione diligentius inuestiga-
+re constitui.- Plurima enim hic insignia phaenomena
+occurrent, quorum consideratione natura numerorum non
+mediocriter illustratur. Tam eximia autem in doctrina
+numerorum adhuc latent mysteria, in quibus euoluendis
+opera non frustra impendi videtur.
+
+THEOREMA. 2.
+
+5. Si series quadratorum in infinitum continuata
+
+in membra dispescatur, quorum singula ex p terminis
+constent, hoc modo
+
+-ppl<p÷1)²···4pp!(2p÷1)'·--9pp1v<ap÷1)’-·-16pp1etc·
+
+turn fi vniuscuiusque membri termini singuli per nume-
+
+rum primum p diuidantur‚ eadem residua eodemque
+ordine recurrent.
+
+DEMoNsTRAi-JO.
+
+Singulorum enim membrorum termini primi
+1, (p÷1)', (ΞΗ-ψ, (gp-mm etc. fi pergasstiffi· ”
+’ ²
+

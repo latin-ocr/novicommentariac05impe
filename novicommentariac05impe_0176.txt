@@ -1,0 +1,35 @@
+122 DE METHoDO ΒΙΟΡΗΑΝΊἙΑΕ AN'ALOGA
+
+in singulis idem dimensionum numerus* n deprehendatur-7
+inuenire relationem algebraicam inter x et y, vt fingu-
+larum harum formularum vaxores prodeant algebraicif
+
+SOLVTIO.
+
+Cum Z fit functio homogenea n' dimensionum
+ipsarum x et y, fi ponatur yztx‚ ea transibit in
+huiusmodi'expressionem an, existente T fimffione
+quapiam ipsius t tantum3 ideoquevquaelibet formula hu-
+ius generis s Z d x reducitur sequenti modo:
+
+sdezsT xnde-‚Tssr‘sx'‘÷¹—-,2—‡—1sx²²÷²dT
+
+Deinde ob d γ Ξ t d x—4- x d t formulae huius generis
+s Z dy simili modo transformabuntur:
+
+sZ dy :sT σθ’ (ῐᾶχ-ξ-χιίϊ) :sxn4-1Tdt-r-sTtx’2dx
+at s'T t x⁷¹dx z ,ζ’-ἶ T t x '¹⁴⁴¹- 71—,2-7sx’¹÷¹(Tdt÷ th)
+*vnde fiet
+
+[Zdy:ss-ITtx“·⁴·¹—⁷L—,¹„7sx⁷¹'¹·¹(th—-ant)
+Quare quotcunque proponantur formulae integrales, vel
+huius s Z dx, vel huius s Z dy speciei, quaestio reuo-
+cabitur ad totidem formulas istius speciei κ[κ7’·ἢ“’Θ dt,
+existente Θ structione ipfius t, quae posito x⁷¹÷¹ :u
+abeunt in su Θ dt. Quotcunque autem huiusmodi for-
+mulae [u Θ det fuerint propofitae , eae omnes per
+praecepta hactenus tradita ad valores algebraicos reduci
+poterunt.
+
+COROL.
+
